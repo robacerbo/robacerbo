@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Roberto</h1>
-<h3 align="center">Junior Full Stack Developer and creative developer of new website designs and innovative user interfaces</h3>
+<h3 align="center">Junior Full Stack Developer and creative developer of new website designs and innovative user interfaces with knowledge of the most common programming front-end & back-end languages based on Object Oriented programming using Agile Scrum methodologies</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=robacerbo&label=Profile%20views&color=0e75b6&style=flat" alt="robacerbo" /> </p>
 
