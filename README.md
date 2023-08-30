@@ -4,7 +4,7 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=robacerbo&label=Profile%20views&color=0e75b6&style=flat" alt="robacerbo" /> </p>
 
 - 👨‍💻 My latest published works:
-    - Automotive Landing Page - <a href="https://promo.city-rent.it/noleggio-lungo-termine-autoriparatori/" target="_blank"> https://promo.city-rent.it/noleggio-lungo-termine-autoriparatori/ </a>
+    - Automotive Landing Page - <a href="https://promo.city-rent.it/noleggio-lungo-termine-autoriparatori/" target="_blank">  </a>
     - NCC Landing Page - https://promo.city-rent.it/noleggio-lungo-termine-ncc/
     - TAXI Landing Page - https://promo.city-rent.it/noleggio-lungo-termine-taxi/  
 
