@@ -3,9 +3,9 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=robacerbo&label=Profile%20views&color=0e75b6&style=flat" alt="robacerbo" /> </p>
 
-- 👨‍💻 My latest published website: VENERE GROUP SCARL - <a href="https://veneregroupscarl.com/" target="blank" >https://veneregroupscarl.com/</a>
+- 👨‍💻 My latest published website: VENERE GROUP SCARL - <a href="https://veneregroupscarl.com/" target="__blank" >https://veneregroupscarl.com/</a>
 
-- 👨‍💻 My latest published works: PROMO CITY RENT - <a href="https://promo.city-rent.it/" target="blank" >https://promo.city-rent.it/</a>
+- 👨‍💻 My latest published works: PROMO CITY RENT - <a href="https://promo.city-rent.it/" target="__blank" >https://promo.city-rent.it/</a>
 
 - 🔭 I've got the Wordpress Course Certificate -> https://www.udemy.com/certificate/UC-ecc86036-4032-4bdc-bc6a-171799246215/
 
